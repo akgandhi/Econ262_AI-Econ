@@ -1,0 +1,26 @@
+---
+title: "Introduction to Statistical Machine Learning"
+author: 'Rebecca C. Steorts, Duke University '
+date: "STA 325, Chapter 2 ISL"
+output:
+  slidy_presentation: default
+  beamer_presentation:
+font-size: 8px
+---
+
+Agenda
+===
+- Motivation 
+- Exploring the data
+- Statistical Machine Learning
+- Prediction, Inference, Uncertainty 
+Quantification 
+
+Motivation
+===
+- You are an analyst hired by a client to improve the sales on a product. 
+
+- The \textcolor{dbrown}{Advertisting} data set consists of \textcolor{dbrown}{sales} of a product in 200 different markets.
+- There are advertising budgets for three different media sources: 
+\textcolor{dbrown}{TV, radio, newspaper}.
+
